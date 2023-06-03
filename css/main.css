@@ -1,0 +1,4 @@
+#moviesTable tr:hover{ cursor:pointer; }
+
+/* clear button has red color and margin left of 5px */
+#clear{ margin-left:5px; }
